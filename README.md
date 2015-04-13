@@ -2,7 +2,19 @@
 
 These are the PDF slides and notebooks used for [my talk](https://sea.ucar.edu/event/project-jupyter-language-independent-architecture-open-computing-and-data-science) at the NCAR [SEA'15](https://sea.ucar.edu/conference/2015) conference and at the NREL computational sciences semianr.  See abstract below.
 
-This directory contains
+This directory contains the following files:
+
+* A [PDF](ProjectJupyter.pdf) of the main slides.
+
+* A set of interactive demos as Jupyter Notebooks:
+  - [Index](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/Index.ipynb)
+  - [Quick Tour of the Notebook](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/QuickTour.ipynb)
+  - [IPython: a polyglot kernel](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/Multiple%20languages%20from%20inside%20IPython.ipynb)
+  - [A Julia Notebook, with interactive widgets](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/Julia-Interactive%20Widgets.ipynb)
+  - [An R notebook](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/ggplot2-examples.ipynb)
+
+
+**Note:** to run some of these notebooks, you'll need to install a fair amount of dependencies that may not be part of your everyday workflow. They are meant to be a demonstration of lots of capabilities in rapid succession, so they have an unusally high number of dependencies.
 
 # License
 
