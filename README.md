@@ -4,7 +4,7 @@ These are the PDF slides and notebooks used for [my talk](https://sea.ucar.edu/e
 
 This directory contains the following files:
 
-* A [PDF](ProjectJupyter.pdf) of the main slides.
+* A PDF of the main slides ([viewable on Speakerdeck](https://speakerdeck.com/fperez/ipython-and-project-jupyter-a-language-independent-architecture-for-open-computing-and-data-science)).
 
 * A set of interactive demos as Jupyter Notebooks:
   - [Index](http://nbviewer.ipython.org/github/fperez/talk-1504-boulder/blob/master/Index.ipynb)
