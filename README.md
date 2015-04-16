@@ -2,6 +2,8 @@
 
 These are the PDF slides and notebooks used for [my talk](https://sea.ucar.edu/event/project-jupyter-language-independent-architecture-open-computing-and-data-science) at the NCAR [SEA'15](https://sea.ucar.edu/conference/2015) conference and at the NREL computational sciences semianr.  See abstract below.
 
+Here is [a video of the talk](https://sea.ucar.edu/event/project-jupyter-language-independent-architecture-open-computing-and-data-science) as delivered at NCAR's foothills lab, on April 13 2015.
+
 This directory contains the following files:
 
 * A PDF of the main slides ([viewable on Speakerdeck](https://speakerdeck.com/fperez/ipython-and-project-jupyter-a-language-independent-architecture-for-open-computing-and-data-science)).
